@@ -17,7 +17,7 @@ Este texto se cargó desde GithubDesktop y se agrega a un branch
 
 
 
-
+------------------------------------------------------------------------------
 #Capitulo 1
 
 Un página HTML, su CSS y su JS se juntaron para crear un JSON. Cuando lo tuvieron listo, le dieron vida y lo enviaron en una misión mediante un fetch al gran oceano de internet donde deberia encontrarse con un script PHP. Todos lo vieron salir, pero aparentemente, el JSON nunca llegó, aunque sí hubo respuesta del script PHP.
