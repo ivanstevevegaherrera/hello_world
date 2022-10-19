@@ -14,12 +14,14 @@ We’ll then transition into standards, tools, and specifications for REST APIs.
 
 Este texto se cargó desde GithubDesktop y se agrega a un branch
 
-<<<<<<< HEAD
--------------------------------------------------------------------
-#Capitulo 2
-=======
-------------------------------------------------------------------------------
+
+
+
+
 #Capitulo 1
 
 Un página HTML, su CSS y su JS se juntaron para crear un JSON. Cuando lo tuvieron listo, le dieron vida y lo enviaron en una misión mediante un fetch al gran oceano de internet donde deberia encontrarse con un script PHP. Todos lo vieron salir, pero aparentemente, el JSON nunca llegó, aunque sí hubo respuesta del script PHP.
->>>>>>> capitulo1-local
+
+------------------------------------------------------------------------------
+#Capitulo 2
+Este es el contenido del capitulo 2
